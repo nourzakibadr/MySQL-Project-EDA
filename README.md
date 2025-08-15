@@ -1,2 +1,2 @@
 # MySQL-Project-EDA
-Personal Developed Projects and Skills - data analytics Bootcamp
+An exploratory data analysis of the cleaned tech company layoff dataset from a previous repository.
